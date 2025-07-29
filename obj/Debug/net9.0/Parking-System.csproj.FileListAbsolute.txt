@@ -1,0 +1,14 @@
+D:\enigma\test-kerja\Parking-System\bin\Debug\net9.0\Parking-System.exe
+D:\enigma\test-kerja\Parking-System\bin\Debug\net9.0\Parking-System.deps.json
+D:\enigma\test-kerja\Parking-System\bin\Debug\net9.0\Parking-System.runtimeconfig.json
+D:\enigma\test-kerja\Parking-System\bin\Debug\net9.0\Parking-System.dll
+D:\enigma\test-kerja\Parking-System\bin\Debug\net9.0\Parking-System.pdb
+D:\enigma\test-kerja\Parking-System\obj\Debug\net9.0\Parking-System.GeneratedMSBuildEditorConfig.editorconfig
+D:\enigma\test-kerja\Parking-System\obj\Debug\net9.0\Parking-System.AssemblyInfoInputs.cache
+D:\enigma\test-kerja\Parking-System\obj\Debug\net9.0\Parking-System.AssemblyInfo.cs
+D:\enigma\test-kerja\Parking-System\obj\Debug\net9.0\Parking-System.csproj.CoreCompileInputs.cache
+D:\enigma\test-kerja\Parking-System\obj\Debug\net9.0\Parking-System.dll
+D:\enigma\test-kerja\Parking-System\obj\Debug\net9.0\refint\Parking-System.dll
+D:\enigma\test-kerja\Parking-System\obj\Debug\net9.0\Parking-System.pdb
+D:\enigma\test-kerja\Parking-System\obj\Debug\net9.0\Parking-System.genruntimeconfig.cache
+D:\enigma\test-kerja\Parking-System\obj\Debug\net9.0\ref\Parking-System.dll
